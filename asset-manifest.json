@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/haejinyi0183/edens-pals-3.git/static/css/main.2e2fea72.css",
+    "main.js": "/haejinyi0183/edens-pals-3.git/static/js/main.78e19dfd.js",
+    "static/media/bunnie.jpeg": "/haejinyi0183/edens-pals-3.git/static/media/bunnie.a2a1ea0ff46a975abf66.jpeg",
+    "static/media/pet.png": "/haejinyi0183/edens-pals-3.git/static/media/pet.67a8c4fb516913be620d.png",
+    "static/media/pawprint.png": "/haejinyi0183/edens-pals-3.git/static/media/pawprint.c72ec2b2420ff5acefc7.png",
+    "index.html": "/haejinyi0183/edens-pals-3.git/index.html",
+    "main.2e2fea72.css.map": "/haejinyi0183/edens-pals-3.git/static/css/main.2e2fea72.css.map",
+    "main.78e19dfd.js.map": "/haejinyi0183/edens-pals-3.git/static/js/main.78e19dfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e2fea72.css",
+    "static/js/main.78e19dfd.js"
+  ]
+}
