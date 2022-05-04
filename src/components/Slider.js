@@ -1,5 +1,5 @@
 
-
+function slider() {
 const messages = [
     "Around 920,000 cats and dogs were euthanized in animal shelters in 2020...",
     "Approximately 3.1 million dogs and 3.2 million cats enter animal shelters each year...",
@@ -25,4 +25,8 @@ function next() {
     slides.style.opacity = 0;
     setTimeout(slide, 2000)
 }
-slide();
+return (
+slide()
+)
+}
+export default slider;
