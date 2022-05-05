@@ -8,7 +8,7 @@ function Footer() {
         <span>⪡back to top</span>
       </a>
 
-      <p className="h3 fixed-bottom text-center text-muted">Edens Pals &copy; {getYear}</p>
+      <p className="foot h3 fixed-bottom text-center text-muted">Edens Pals &copy; {getYear}</p>
     </div>
   );
 }
